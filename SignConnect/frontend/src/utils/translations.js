@@ -1,0 +1,51 @@
+export const translations = {
+  English: {
+    welcome: "Welcome",
+    totalSigns: "Total Signs Available",
+    signsLearned: "Signs Learned",
+    streak: "Current Streak",
+    dictionaryTitle: "📚 Sign Dictionary",
+    clickToLearn: "Click to Learn",
+    learning: "Learning",
+    selectSign: "Select a sign to start class",
+    historyTitle: "🕒 Recent History",
+    viewHistory: "View Full History",
+    signs: "Signs",
+    learned: "Learned",
+    day: "Day",
+    noSigns: "No signs found. Check backend folders."
+  },
+  Hindi: {
+    welcome: "स्वागत है",
+    totalSigns: "कुल उपलब्ध संकेत",
+    signsLearned: "सीखे गए संकेत",
+    streak: "मौजूदा सिलसिला",
+    dictionaryTitle: "📚 संकेत शब्दकोश",
+    clickToLearn: "सीखने के लिए क्लिक करें",
+    learning: "सीख रहे हैं",
+    selectSign: "कक्षा शुरू करने के लिए एक संकेत चुनें",
+    historyTitle: "🕒 हाल का इतिहास",
+    viewHistory: "पूरा इतिहास देखें",
+    signs: "संकेत",
+    learned: "सीखा",
+    day: "दिन",
+    noSigns: "कोई संकेत नहीं मिला।"
+  },
+  Tamil: {
+    welcome: "வணக்கம்",
+    totalSigns: "மொத்த சைகைகள்",
+    signsLearned: "கற்ற சைகைகள்",
+    streak: "தற்போதைய தொடர்ச்சி",
+    dictionaryTitle: "📚 சைகை அகராதி",
+    clickToLearn: "கற்க கிளிக் செய்யவும்",
+    learning: "கற்கிறது",
+    selectSign: "வகுப்பைத் தொடங்க ஒரு சைகையைத் தேர்ந்தெடுக்கவும்",
+    historyTitle: "🕒 சமீபத்திய வரலாறு",
+    viewHistory: "முழு வரலாற்றையும் காண்க",
+    signs: "சைகைகள்",
+    learned: "கற்றது",
+    day: "நாள்",
+    noSigns: "சைகைகள் எதுவும் கிடைக்கவில்லை."
+  },
+  // Add Telugu, Marathi, Gujarati here if needed...
+};
