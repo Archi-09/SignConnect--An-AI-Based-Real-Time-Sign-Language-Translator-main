@@ -41,6 +41,6 @@ The project primarily focuses on **Indian Sign Language (ISL)** and aims to impr
 - HTML
 - CSS
 - JavaScript
-- React (if applicable)
+- React 
 
 ---
